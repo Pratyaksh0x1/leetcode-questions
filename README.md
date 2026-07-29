@@ -81,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
