@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0707-design-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0037-sudoku-solver) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
