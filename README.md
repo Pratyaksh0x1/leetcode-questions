@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0707-design-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
