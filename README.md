@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0707-design-linked-list) |
@@ -178,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
