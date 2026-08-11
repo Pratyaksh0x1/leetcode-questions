@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0641-design-circular-deque](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0724-find-pivot-index](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0707-design-linked-list) |
 ## Backtracking
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0707-design-linked-list) |
 ## Simulation
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0641-design-circular-deque) |
 ## Bracket Sequences
 |  |
 | ------- |
