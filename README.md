@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0641-design-circular-deque](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0641-design-circular-deque) |
 | [0724-find-pivot-index](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
 |  |
