@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0641-design-circular-deque](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0641-design-circular-deque) |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
