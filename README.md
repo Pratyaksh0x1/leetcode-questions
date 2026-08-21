@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
 ## Greedy
 |  |
 | ------- |
