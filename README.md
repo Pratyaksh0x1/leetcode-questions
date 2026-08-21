@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Sorting
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 ## Greedy
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0075-sort-colors) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
