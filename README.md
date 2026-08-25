@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1920-build-array-from-permutation) |
 | [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
 ## Hash Table
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
