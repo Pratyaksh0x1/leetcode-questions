@@ -10,7 +10,11 @@ public:
             long long hours = 0;
 
             for (int i=0;i<piles.size();i++) {
-                hours += (piles[i] + mid - 1) / mid;
+                hours += piles[i] / mid;
+
+                if (piles[i] % mid != 0) {
+                   hours++;
+            }
             }
 
             if (hours <= h) {
