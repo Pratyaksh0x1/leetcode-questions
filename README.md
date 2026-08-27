@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 ## Design
 |  |
 | ------- |
