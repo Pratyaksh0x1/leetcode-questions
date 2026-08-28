@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 ## Rolling Hash
