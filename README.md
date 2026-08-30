@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1920-build-array-from-permutation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -319,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0069-sqrtx) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
