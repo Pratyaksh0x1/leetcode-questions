@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sliding Window
 |  |
