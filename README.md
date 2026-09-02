@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -379,4 +382,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
