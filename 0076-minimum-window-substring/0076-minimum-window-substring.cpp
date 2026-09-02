@@ -13,7 +13,7 @@ public:
         int required = t.size();
 
         for (int end = 0; end < s.size(); end++) {
-
+ 
             if (mp[s[end]] > 0) {
                 required--;
             }
