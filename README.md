@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0392-is-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
