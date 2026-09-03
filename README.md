@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
