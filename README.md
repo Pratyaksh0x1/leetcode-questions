@@ -398,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
