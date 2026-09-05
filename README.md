@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0905-sort-array-by-parity) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
+| [0867-transpose-matrix](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0867-transpose-matrix) |
 ## Design
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
