@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2742-painting-the-walls](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/2742-painting-the-walls) |
 ## Greedy
 |  |
