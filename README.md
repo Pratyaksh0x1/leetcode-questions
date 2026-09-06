@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
