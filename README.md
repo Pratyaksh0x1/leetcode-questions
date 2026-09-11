@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 ## Math
