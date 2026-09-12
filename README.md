@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
