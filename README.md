@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
