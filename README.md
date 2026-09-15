@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Pratyaksh0x1/leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
